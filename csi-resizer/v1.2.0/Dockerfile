@@ -1,1 +1,1 @@
-from gcr.io/sig-storage/csi-resizer:v1.2.0
+from k8s.gcr.io/sig-storage/csi-resizer:v1.2.0
